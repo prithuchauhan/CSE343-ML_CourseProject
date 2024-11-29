@@ -7,4 +7,4 @@ The following files have been included :-
 3. Jigsaw_DL : Trains a BiLSTM model on the Jigsaw dataset
 4. EDA and Preprocessing Twitter : Contains EDA and Preprocessing done on Twitter sentiment analysis dataset. Also contains all the baseline results on the six classical ML models and their confusion matrices.
 5. Eda_jigsaw : contains eda done on Jigsaw dataset
-6. 
+6. Jigsaw.ipynb : contains all classical ML, Ensemble, AdaBoost, Tuned Adaboost models on Jigsaw dataset.
