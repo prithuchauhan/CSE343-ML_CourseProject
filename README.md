@@ -1,6 +1,7 @@
 This is the submission for course Project for course CSE343 - Machine Learning.
 
 Datasets Used : Jigsaw Toxic Comment Dataset (Link : https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge)
+Twitter Sentiment Analysis (Link : https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
 
 Group 86, Members : Prithu Raj Singh, Anish Jain, Sarthak Kandpal, Tushar Agarwal.
 
